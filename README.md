@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Nodejs, C, C++, DBMS, OS, CN etc.**
 
-- 📫 How to reach me **https://www.linkedin.com/in/GouravSittam/**
+- 📫 How to reach me **https://www.linkedin.com/in/rudrapratap-singh-jat/**
 
 
 <h3 align="left">Connect with me:</h3>

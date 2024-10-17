@@ -49,7 +49,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RudraJat&show_icons=true&theme=radical&locale=en&layout=compact" alt="RudraJat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GouravSittam&theme=radical&show_icons=true&locale=en" alt="GouravSittam" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RudraJat&theme=radical&show_icons=true&locale=en" alt="RudraJat" /></p>
 
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GouravSittam&theme=radical&" alt="RudraJat" /></p> 
 

@@ -51,13 +51,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RudraJat&theme=radical&show_icons=true&locale=en" alt="RudraJat" /></p>
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GouravSittam&theme=radical&" alt="RudraJat" /></p> 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RudraJat&theme=radical&" alt="RudraJat" /></p> 
 
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GouravSittam&theme=radical&" alt="RudraJat" /></a> </p>
 
 
 <!-- contribution Stats -->
 <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RudraJat
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GouravSittam
 &radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>

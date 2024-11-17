@@ -1,5 +1,16 @@
+<!-- Snake Eating Contribution Stat -->
+<div>
+<img src="https://raw.githubusercontent.com/GouravSittam/GouravSittam/output/snake.svg" alt="Snake animation" />
+</div><hr>
+<h1 align="center"><i>Hi 👋, I'm Rudrapratap Singh Jat</i></h1>
+<h3 align="center"><i>A FULL STACK WEB DEVELOPER.</i></h3>
+<br>
+<br>
+<!-- Views -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=RudraJat&label=Profile%20views&color=0e75b6&style=flat" alt="RudraJat" /> </p>
+<br>
 
-- 🔭 I’m currently working on **bulding project**.
+<!-- - 🔭 I’m currently working on **bulding project**.
 
 - 🌱 I’m currently learning **JavaScript, ReactJS, NodeJs, MongoDB etc.**
 
@@ -8,7 +19,7 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, Nodejs, C, C++, DBMS, OS, CN etc.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/rudrapratap-singh-jat/**
-
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -18,7 +18,6 @@
 <img src="https://skillicons.dev/icons?i=aws,c,cs,cpp,cloudflare,css,discord,docker,express,git,github,html,ai,js,linux,mongodb,netlify,nextjs,nodejs,postgres,postman,powershell,py,react,regex,mysql,stackoverflow,supabase,svg,tailwind,twitter,ts,unity,v,vercel,vite,instagram,vscode,bootstrap,pycharm&perline=8&theme=dark" />
 </p>
 
-<p align="center"> <img align="center" src="https://github-readme-stats-sync.vercel.app/api?username=RudraJat&count_private=true&show_icons=true&theme=radical&border_radius=10" alt="RudraJat" /></p>
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RudraJat&theme=dracula&hide_border=true" alt="RudraJat" /></p>
 
 

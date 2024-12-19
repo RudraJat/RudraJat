@@ -18,7 +18,7 @@
 </p>
 <br>
 
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RudraJat&theme=dracula&hide_border=true" alt="RudraJat" /></p>
+<!-- CURRENT STREAK <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RudraJat&theme=dracula&hide_border=true" alt="RudraJat" /></p>-->
 
 
 

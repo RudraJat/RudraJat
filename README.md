@@ -1,6 +1,5 @@
 <!-- Snake Eating Contribution Stat -->
 <div>
-        
 <img src="https://raw.githubusercontent.com/RudraJat/RudraJat/output/snake.svg" alt="Snake animation" />
 </div><hr>
 <h1 align="center"><i>Hi 👋, I'm Rudrapratap Singh Jat</i></h1>

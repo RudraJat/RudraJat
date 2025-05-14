@@ -1,5 +1,4 @@
 <!-- Snake Eating Contribution Stat -->
-
 <div>
 <img src="https://raw.githubusercontent.com/RudraJat/RudraJat/output/snake.svg" alt="Snake animation" />
 </div><hr>
@@ -7,10 +6,12 @@
 <h3 align="center"><i>A FULL STACK WEB DEVELOPER.</i></h3>
 <br>
 <br>
- 
+
+
 <!-- Views -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RudraJat&label=Profile%20views&color=0e75b6&style=flat" alt="RudraJat" /> </p>
 <br>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 

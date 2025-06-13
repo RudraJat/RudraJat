@@ -21,7 +21,7 @@
   <a href="https://github.com/RudraJat">
     <img src="https://komarev.com/ghpvc/?username=RudraJat&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile Views" />
   </a><br>
-  <img src="https://img.shields.io/badge/-Open%20to%20Work-green?style=flat-square" />
+
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />

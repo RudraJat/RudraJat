@@ -1,4 +1,5 @@
 <!-- 🐍 Animated Snake Contribution Stat -->
+
 <div align="center">
   
   <img src="https://raw.githubusercontent.com/RudraJat/RudraJat/output/snake.svg" alt="Snake Eating Contributions" />

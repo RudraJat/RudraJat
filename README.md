@@ -3,6 +3,7 @@
   <img src="https://raw.githubusercontent.com/RudraJat/RudraJat/output/snake.svg" alt="Snake Eating Contributions" />
 </div>
 <hr>
+  
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />

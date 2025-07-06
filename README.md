@@ -10,7 +10,7 @@
 
 <!-- Enhanced Header with Gradient Background -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20there!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=I'm%20Gourav%20Chaudhary&descAlignY=55&descAlign=50&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20there!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=I'm%20Rudrapratap%20Singh%20Jat&descAlignY=55&descAlign=50&descSize=20" />
 </div>
 
 <h1 align="center">
@@ -25,9 +25,9 @@
 ### ✨ **DIGITAL PRESENCE** ✨
 
 <p>
-  <a href="https://github.com/GouravSittam">
+  <a href="https://github.com/RudraJat">
     <img src="https://img.shields.io/badge/👁️‍🗨️_Profile_Views-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E" />
-    <img src="https://komarev.com/ghpvc/?username=GouravSittam&label=&style=flat-square&color=FF6B6B" />
+    <img src="https://komarev.com/ghpvc/?username=RudraJat&label=&style=flat-square&color=FF6B6B" />
   </a>
 </p>
 
@@ -111,8 +111,6 @@
 </tr>
 </table>
 -->
-### ⚡ **FUN DEVELOPER FACT**
-> *I love debugging so much, sometimes I dream in code! 🐛💭*
 
 <!-- Aesthetic Divider -->
 <div align="center">
@@ -178,7 +176,7 @@
 
 **📧 EMAIL**
 <br><br>
-<a href="mailto:gouravsittam@gmail.com">
+<a href="mailto:rps9827256181@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
 </a>
 <br>
@@ -189,7 +187,7 @@
 
 **💼 LINKEDIN**
 <br><br>
-<a href="https://linkedin.com/in/gouravsittam">
+<a href="https://linkedin.com/in/rudrapratap-singh-jat">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
 </a>
 <br>
@@ -200,7 +198,7 @@
 
 **🐦 TWITTER**
 <br><br>
-<a href="https://x.com/Gouravv_c">
+<a href="https://x.com/RudraJat01">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" />
 </a>
 <br>
@@ -209,20 +207,10 @@
 </td>
 <td align="center" width="20%">
 
-**📸 INSTAGRAM**
-<br><br>
-<a href="https://www.instagram.com/gouravv.c/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" />
-</a>
-<br>
-*Life & Code*
-
-</td>
-<td align="center" width="20%">
 
 **✍️ DEV.TO**
 <br><br>
-<a href="https://dev.to/gouravsittam">
+<a href="https://dev.to/rudrajat">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=000000" />
 </a>
 <br>
@@ -240,8 +228,7 @@
   
   ### 💭 **DAILY MOTIVATION**
   
-  > *"The best time to plant a tree was 20 years ago. The second best time is now."*
-  > **— Chinese Proverb**
+  > "Be not afraid of growing slowly, be afraid only of standing still."
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=💻+Code+with+passion;🚀+Build+with+purpose;🌟+Share+knowledge;⚡+Never+stop+learning" />
 </div>

@@ -15,7 +15,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=6A0DAD&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Creative+Problem+Solver;Code+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=6A0DAD&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Creative+Problem+Solvert" alt="Typing SVG" />
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
 </h1>
 
@@ -38,16 +38,6 @@
   <img src="https://img.shields.io/badge/🟢_Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1A1A2E" />
 </p>
 
-</div>
-
-<!-- Animated Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
-
-<!-- Dynamic Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1200&color=F76D6D&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🍕+Eat%2C+💤+Sleep%2C+💻+Code%2C+🔄+Repeat!;🚀+Turning+ideas+into+reality+with+code;🤝+Let's+innovate+together!;📚+Always+learning%2C+🏗️+always+building" />
 </div>
 
 <!-- Glowing Divider -->
@@ -112,10 +102,7 @@
 </table>
 -->
 
-<!-- Aesthetic Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
+
 
 ## 🛠️ **TECH ARSENAL & SUPERPOWERS**
 

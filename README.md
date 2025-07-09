@@ -2,13 +2,13 @@
   <img src="https://raw.githubusercontent.com/RudraJat/RudraJat/output/snake.svg" alt="Snake Eating Contributions" />
 </div>
 <hr>
-<!-- Aesthetic Glowing Divider -->
-<div align="center">
+<!-- <!-- Aesthetic Glowing Divider -->
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
 <!-- Enhanced Header with Gradient Background -->
-<div align="center">
+<!--<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20there!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=I'm%20Rudrapratap%20Singh%20Jat&descAlignY=55&descAlign=50&descSize=20" />
 </div>
 
@@ -19,7 +19,7 @@
 </h1>
 
 <!-- Enhanced Profile Stats -->
-<div align="center">
+<!--<div align="center">
   
 ### ✨ **DIGITAL PRESENCE** ✨
 
@@ -40,9 +40,9 @@
 </div>
 
 <!-- Glowing Divider -->
-<div align="center">
+<!--<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
+</div>-->
 
 <!--## 🧑‍💻 **ABOUT THE DEVELOPER**
 
@@ -216,17 +216,17 @@
   
   > "Be not afraid of growing slowly, be afraid only of standing still."
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=💻+Code+with+passion;🚀+Build+with+purpose;🌟+Share+knowledge;⚡+Never+stop+learning" />
-</div>
+ <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=6A0DAD&center=true&vCenter=true&width=600&lines=💻+Code+with+passion;🚀+Build+with+purpose;🌟+Share+knowledge;⚡+Never+stop+learning" />
+</div> -->
 
 <!-- Animated Footer -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=65&desc=Let's%20connect%20and%20create%20something%20extraordinary!&descAlignY=80&descAlign=50&descSize=14" />
-</div>
+</div>-->
 
 <!-- Final Touch -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=300&lines=Happy+Coding!+🚀;Keep+Building!+💫;Stay+Awesome!+⚡" />
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-</div>
+</div> -->

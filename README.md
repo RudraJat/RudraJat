@@ -6,7 +6,6 @@
 <!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
-
 <!-- Enhanced Header with Gradient Background -->
 <!--<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%20there!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=I'm%20Rudrapratap%20Singh%20Jat&descAlignY=55&descAlign=50&descSize=20" />
